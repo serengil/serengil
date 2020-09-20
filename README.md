@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://sefiks.com/"><img src="https://github.com/serengil/serengil/blob/master/icons/wordpress.png" width="50" height="50"></a>
-  <span><span>
+  <span><span><span>
   <a href="https://twitter.com/serengil"><img src="https://github.com/serengil/serengil/blob/master/icons/twitter.png" width="50" height="50"></a>
-  <span><span>
+  <span><span><span>
   <a href="https://youtube.com/SefikIlkinSerengil"><img src="https://github.com/serengil/serengil/blob/master/icons/youtube.png" width="50" height="50"></a>
-  <span><span>
+  <span><span><span>
   <a href="https://www.linkedin.com/in/serengil/"><img src="https://github.com/serengil/serengil/blob/master/icons/linkedin_v2.png" width="50" height="50"></a>
 </p>
 
