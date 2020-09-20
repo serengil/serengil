@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"><a href="https://sefiks.com/"><img src="https://github.com/serengil/serengil/blob/master/icons/wordpress.png" width="100" height="100"></a></p>
+<p align="center"><a href="https://sefiks.com/"><img src="https://github.com/serengil/serengil/blob/master/icons/wordpress.png" width="70" height="70"></a></p>
 
 <!--
 **serengil/serengil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
