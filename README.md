@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://sefiks.com/"><img src="https://github.com/serengil/serengil/blob/master/icons/wordpress.png" width="50" height="50"></a>
-  <a href="https://twitter.com/serengil"><img src="https://github.com/serengil/serengil/blob/master/icons/twitter.png" width="50" height="50"></a>
-  <a href="https://youtube.com/SefikIlkinSerengil"><img src="https://github.com/serengil/serengil/blob/master/icons/youtube.png" width="50" height="50"></a>
-  <a href="https://www.linkedin.com/in/serengil/"><img src="https://github.com/serengil/serengil/blob/master/icons/linkedin.png" width="50" height="50"></a>
+  <a href="https://sefiks.com/" target="_blank"><img src="https://github.com/serengil/serengil/blob/master/icons/wordpress.png" width="50" height="50"></a>
+  <a href="https://twitter.com/serengil" target="_blank"><img src="https://github.com/serengil/serengil/blob/master/icons/twitter.png" width="50" height="50"></a>
+  <a href="https://youtube.com/SefikIlkinSerengil" target="_blank"><img src="https://github.com/serengil/serengil/blob/master/icons/youtube.png" width="50" height="50"></a>
+  <a href="https://www.linkedin.com/in/serengil/" target="_blank"><img src="https://github.com/serengil/serengil/blob/master/icons/linkedin.png" width="50" height="50"></a>
 </p>
 
 <!--
