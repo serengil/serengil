@@ -1,13 +1,9 @@
 ### Hi there 👋 This is Sefik.
 
-💻 Software Engineer [@Softtech](https://softtech.com.tr/), Data Scientist [@Isbank](https://www.forbes.com/companies/isbank/#60890276e514) AI Tribe
+💻 Software Engineer [@Softtech](https://softtech.com.tr/), Data Scientist [@Isbank](https://www.forbes.com/companies/isbank/#60890276e514) AI Tribe, 🎓 Galatasaray University alumni, 🏙️ Istanbulite
 
-🎓 Galatasaray University alumni
-
-🏙️ Istanbulite
-
-📫 How to reach me:
 <p align="center">
+  📫 How to reach me:
   <a href="https://sefiks.com/"><img src="https://github.com/serengil/serengil/blob/master/icons/wordpress.png" width="50" height="50"></a>
   <a href="https://twitter.com/serengil"><img src="https://github.com/serengil/serengil/blob/master/icons/twitter.png" width="50" height="50"></a>
   <a href="https://youtube.com/SefikIlkinSerengil"><img src="https://github.com/serengil/serengil/blob/master/icons/youtube.png" width="50" height="50"></a>
