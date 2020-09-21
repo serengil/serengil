@@ -1,4 +1,4 @@
-#### ⚡Code wins arguments - Mark Zuckerberg
+#### ⚡ Code wins arguments - Mark Zuckerberg
 
 <p align="center">
   <a href="https://sefiks.com/"><img src="https://github.com/serengil/serengil/blob/master/icons/wordpress.png" width="40" height="40"></a>
