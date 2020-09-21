@@ -6,7 +6,6 @@
   <a href="https://youtube.com/SefikIlkinSerengil"><img src="https://github.com/serengil/serengil/blob/master/icons/youtube.png" width="40" height="40"></a>
   <a href="https://www.linkedin.com/in/serengil/"><img src="https://github.com/serengil/serengil/blob/master/icons/linkedin_v2.png" width="40" height="40"></a>
   <a href="https://www.instagram.com/serengil/"><img src="https://github.com/serengil/serengil/blob/master/icons/instagram.png" width="40" height="40"></a>
-  <a href="https://www.facebook.com/sefikscom/"><img src="https://github.com/serengil/serengil/blob/master/icons/facebook.png" width="40" height="40"></a>
   <a href="https://scholar.google.com/citations?user=hEpTGR0AAAAJ&hl=tr"><img src="https://github.com/serengil/serengil/blob/master/icons/google-scholar.png" width="40" height="40"></a>
 </p>
 
