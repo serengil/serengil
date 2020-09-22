@@ -8,7 +8,7 @@
 </p>
 
 ### Github Stats
-<img align="left" alt="serengil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bulentsiyah&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="serengil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=serengil&show_icons=true&hide_border=true&theme=radical" />
 
 <!--
 
