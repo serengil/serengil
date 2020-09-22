@@ -1,7 +1,5 @@
 ### 💬 Code wins arguments - Mark Zuckerberg
 
-📫 How to reach me:
-
 <p align="center">
   <a href="https://sefiks.com/"><img src="https://github.com/serengil/serengil/blob/master/icons/wordpress.png" width="40" height="40"></a>
   <a href="https://twitter.com/serengil"><img src="https://github.com/serengil/serengil/blob/master/icons/twitter.png" width="40" height="40"></a>
