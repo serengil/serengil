@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/serengil/"><img src="https://github.com/serengil/serengil/blob/master/icons/linkedin_v2.png" width="40" height="40"></a>
 </p>
 
+### Github Stats
+<img align="left" alt="serengil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bulentsiyah&show_icons=true&hide_border=true&theme=radical" />
+
 <!--
 
 ### Hi there 👋 This is Sefik.
