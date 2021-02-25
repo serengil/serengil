@@ -5,7 +5,6 @@
   <a href="https://twitter.com/serengil"><img src="https://github.com/serengil/serengil/blob/master/icons/twitter.png" width="40" height="40"></a>
   <a href="https://youtube.com/SefikIlkinSerengil"><img src="https://github.com/serengil/serengil/blob/master/icons/youtube.png" width="40" height="40"></a>
   <a href="https://www.linkedin.com/in/serengil/"><img src="https://github.com/serengil/serengil/blob/master/icons/linkedin_v2.png" width="40" height="40"></a>
-  <a href="https://patreon.com/serengil/"><img src="https://github.com/serengil/serengil/blob/master/icons/patreon-icon.png" width="40" height="40"></a>
 </p>
 
 <!--
