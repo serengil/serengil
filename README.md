@@ -1,35 +1,12 @@
-### 💬 Code Wins Arguments - Mark Zuckerberg
+### Hey 👋 This is Sefik
 
-<p align="right">
-  <a href="https://sefiks.com/"><img src="https://github.com/serengil/serengil/blob/master/icons/wordpress.png" width="40" height="40"></a>
-  <a href="https://twitter.com/serengil"><img src="https://github.com/serengil/serengil/blob/master/icons/twitter.png" width="40" height="40"></a>
-  <a href="https://youtube.com/SefikIlkinSerengil"><img src="https://github.com/serengil/serengil/blob/master/icons/youtube.png" width="40" height="40"></a>
-  <a href="https://www.linkedin.com/in/serengil/"><img src="https://github.com/serengil/serengil/blob/master/icons/linkedin_v2.png" width="40" height="40"></a>
-</p>
-
-<!--
-
-### Hi there 👋 This is Sefik.
-
-💻 Software Engineer [@Softtech](https://softtech.com.tr/) & Data Scientist [@Isbank](https://www.forbes.com/companies/isbank/#60890276e514) AI Tribe, 🎓 Galatasaray University alumni, 🏙️ Istanbulite
-
-  <a href="https://www.instagram.com/serengil/"><img src="https://github.com/serengil/serengil/blob/master/icons/instagram.png" width="40" height="40"></a>
-  <a href="https://www.facebook.com/sefikscom/"><img src="https://github.com/serengil/serengil/blob/master/icons/facebook.png" width="40" height="40"></a>
-  <a href="https://scholar.google.com/citations?user=hEpTGR0AAAAJ&hl=tr"><img src="https://github.com/serengil/serengil/blob/master/icons/google-scholar.png" width="40" height="40"></a>
-  
-  ### Github Stats
-<img align="left" alt="serengil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=serengil&show_icons=true&hide_border=true&theme=radical" />
-
-**serengil/serengil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm a software engineer
+🎓 Galatasaray University alumni
+🔗 My home on the net is [sefiks.com](https://sefiks.com/)
+🎥 I have my own [YouTube channel](https://www.youtube.com/SefikIlkinSerengil)
+📫 You can reach me by email at [serengil@gmail.com](mailto:serengil@gmail.com)
+🐤 You can find me on Twitter as [@serengil](https://twitter.com/serengil)
+🤖 I'm the creator of [deepface](https://github.com/serengil/deepface)
+💬 I heavily inspired by the mantra - code wins arguments
+🍺 I'm a hobby [homebrewer](https://www.youtube.com/channel/UCQg29nFqkrNfTpQnisBL1_g)
+🏙️ Istanbulite
