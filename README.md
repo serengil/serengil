@@ -1,7 +1,6 @@
 ### Hey 👋 This is Sefik
 
 - 💻 I'm a software engineer
-- 🎓 Galatasaray University alumni
 - 🔗 My home on the net is [sefiks.com](https://sefiks.com/)
 - 🎥 I have my own [YouTube channel](https://www.youtube.com/SefikIlkinSerengil)
 - 📫 You can reach me by email at [serengil@gmail.com](mailto:serengil@gmail.com)
