@@ -2,7 +2,7 @@
 
 - 💻 I'm a software engineer
 - 🔗 My home on the net is [sefiks.com](https://sefiks.com/)
-- 🎥 I have my own [YouTube channel](https://www.youtube.com/SefikIlkinSerengil)
+- 🎥 I have my own [YouTube channel](https://www.youtube.com/SefikIlkinSerengil) - Haven't you subscribe it yet?
 - 📫 You can reach me by email at [serengil@gmail.com](mailto:serengil@gmail.com)
 - 🐤 You can find me on Twitter as [@serengil](https://twitter.com/serengil)
 - 🤖 I'm the creator of [deepface](https://github.com/serengil/deepface)
