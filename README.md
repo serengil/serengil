@@ -7,5 +7,5 @@
 - 🐤 You can find me on Twitter as [@serengil](https://twitter.com/serengil)
 - 🤖 I'm the creator of [deepface](https://github.com/serengil/deepface)
 - 💬 I heavily inspired by the mantra - code wins arguments
-- 🍺 I'm a hobby [homebrewer](https://www.youtube.com/channel/UCQg29nFqkrNfTpQnisBL1_g)
+- 🍺 I'm a hobby [homebrewer](https://www.youtube.com/channel/UCQg29nFqkrNfTpQnisBL1_g) - Haven't you subscribe?
 - 🏙️ I'm a true Istanbulite at heart
