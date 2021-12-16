@@ -8,5 +8,5 @@
 - 💼 You can visit my [LinkedIn](https://www.linkedin.com/in/serengil/) for more info about my professional career
 - 🤖 I'm the creator of [deepface](https://github.com/serengil/deepface) and still maintaining it
 - 💬 I heavily inspired by the mantra - code wins arguments
-- 🍺 I'm a hobby [homebrewer](https://www.youtube.com/channel/UCQg29nFqkrNfTpQnisBL1_g) - Haven't you subscribe?
+- 🍺 I'm a hobby [homebrewer](https://www.youtube.com/watch?v=g-u-y138jpY&list=PLsS_1RYmYQQGR8zp9GK6KnCWkwkvQrxY1&index=1)
 - 🏙️ I'm a true Istanbulite at heart
