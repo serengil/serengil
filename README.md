@@ -2,7 +2,7 @@
 
 - 💻 I'm a software engineer
 - 🔗 My home on the net is [sefiks.com](https://sefiks.com/)
-- 🎥 I have my own [YouTube channel](https://www.youtube.com/@sefiks) - Haven't you subscribe it yet?
+- 🎥 I have my own [YouTube channel](https://www.youtube.com/@sefiks?sub_confirmation=1) - Haven't you subscribe it yet?
 - 📫 You can reach me by email at [serengil@gmail.com](mailto:serengil@gmail.com)
 - 🐤 You can find me on Twitter as [@serengil](https://twitter.com/serengil)
 - 💼 You can visit my [LinkedIn](https://www.linkedin.com/in/serengil/) for more info about my professional career
