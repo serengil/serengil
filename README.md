@@ -4,7 +4,7 @@
 - 🔗 My home on the net is [sefiks.com](https://sefiks.com/)
 - 🎥 I have my own [YouTube channel](https://www.youtube.com/@sefiks?sub_confirmation=1) - Haven't you subscribe it yet?
 - 📫 You can reach me by email at [serengil@gmail.com](mailto:serengil@gmail.com)
-- 🐤 You can find me on Twitter as [@serengil](https://twitter.com/serengil)
+- 🐤 You can find me on Twitter as [@serengil](https://twitter.com/intent/user?screen_name=serengil)
 - 💼 You can visit my [LinkedIn](https://www.linkedin.com/in/serengil/) for more info about my professional career
 - 📷 You can follow me on [Instagram](https://www.instagram.com/serengil/)
 - 🤖 I'm the creator of [deepface](https://github.com/serengil/deepface) and still maintaining it
