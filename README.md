@@ -8,7 +8,7 @@
 - 🐤 You can find me on Twitter as [@serengil](https://twitter.com/intent/user?screen_name=serengil)
 - 💼 You can visit my [LinkedIn](https://www.linkedin.com/in/serengil/) for more info about my professional career
 - 📷 You can follow me on [Instagram](https://www.instagram.com/serengil/)
-- 🎓 You can check out my [Google Scholar](https://scholar.google.com/citations?user=hEpTGR0AAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Sefik-Serengil) profiles to find my academic publications.
+- 🎓 You can check out my [Google Scholar](https://scholar.google.com/citations?user=hEpTGR0AAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Sefik-Serengil) profiles to find my academic publications
 - 🤖 I'm the creator of [deepface](https://github.com/serengil/deepface) and still maintaining it
 - 💬 I heavily inspired by the mantra - code wins arguments
 - 🍺 I'm a hobby [homebrewer](https://www.youtube.com/watch?v=g-u-y138jpY&list=PLsS_1RYmYQQGR8zp9GK6KnCWkwkvQrxY1&index=1)
