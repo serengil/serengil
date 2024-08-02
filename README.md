@@ -3,7 +3,7 @@
 - 💻 I'm a software engineer
 - 🔗 My home on the net is [sefiks.com](https://sefiks.com/)
 - 🎥 I have my own [YouTube channel](https://www.youtube.com/@sefiks?sub_confirmation=1) - Haven't you subscribe it yet?
-- 🗣️ Enjoy to [speak](https://sefiks.com/talks/) at tech events. Interested in having me speak at your event?
+- 🗣️ I enjoy to [speak](https://sefiks.com/talks/) at tech events. Are you interested in having me speak at your event?
 - 📫 You can reach me by email at [serengil@gmail.com](mailto:serengil@gmail.com)
 - 🐤 You can find me on Twitter as [@serengil](https://twitter.com/intent/user?screen_name=serengil)
 - 💼 You can visit my [LinkedIn](https://www.linkedin.com/in/serengil/) for more info about my professional career
