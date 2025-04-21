@@ -25,7 +25,7 @@
 | [DeepFace](https://github.com/serengil/deepface) | A Deep Face Recognition Library for Python 🤖 | ![GitHub last commit](https://img.shields.io/github/last-commit/serengil/deepface) | ![GitHub Repo stars](https://img.shields.io/github/stars/serengil/deepface) |
 | [RetinaFace](https://github.com/serengil/retinaface) | Deep Face Detection Library for Python 🧿 | ![GitHub last commit](https://img.shields.io/github/last-commit/serengil/retinaface) | ![GitHub Repo stars](https://img.shields.io/github/stars/serengil/retinaface) |
 | [ChefBoost](https://github.com/serengil/chefboost) | Decision Tree Framework 👨‍🍳 | ![GitHub last commit](https://img.shields.io/github/last-commit/serengil/chefboost) | ![GitHub Repo stars](https://img.shields.io/github/stars/serengil/chefboost) |
-| [DeepFace React](https://github.com/serengil/deepface-react-ui) | Deep Face Recognition UI With ReactJS | ![GitHub last commit](https://img.shields.io/github/last-commit/serengil/deepface-react-ui) | ![GitHub Repo stars](https://img.shields.io/github/stars/serengil/deepface-react-ui) |
+| [DeepFace React](https://github.com/serengil/deepface-react-ui) | DeepFace UI With ReactJS 🎭 | ![GitHub last commit](https://img.shields.io/github/last-commit/serengil/deepface-react-ui) | ![GitHub Repo stars](https://img.shields.io/github/stars/serengil/deepface-react-ui) |
 
 ### Cryptography
 
